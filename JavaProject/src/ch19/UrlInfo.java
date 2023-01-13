@@ -3,7 +3,7 @@ package ch19;
 import java.net.URL;
 //네트워크 관련 객체들은 다 .net 에 들어있다.
 public class UrlInfo {
-
+	//깃에 올려서 확인해볼 주석
 	public static void main(String[] args) {
 		
 		try {
